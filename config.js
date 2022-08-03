@@ -1,5 +1,5 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @nurutomo 🔭
+// M A D E  B Y  Levi - Sama 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -52,23 +52,23 @@ global.sdc = 'https://github.com/Bot-Mdnew'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = 'gada'
+global.povo = 'gada'
+global.pgopay = 'gada'
+global.ppulsa = '0851-7244-6692'
+global.ppulsa2 = '+0851-7244-6692'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6282131369002'
+global.nomorown = '6285172446692'
+global.namebot = 'sadbot Ofc'
+global.nameown = 'X Levi Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6285172446692', 'X Levi Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,7 +113,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
+global.wm = '「 sadBot |Levi Offcial⁩ 」' //Main Watermark
 global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
 global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
